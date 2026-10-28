@@ -33,7 +33,7 @@ Centralizar cadastros acadêmicos, receber a disponibilidade de professores, ger
 
 ## Plano de desenvolvimento por features
 
-- [ ] **F0 — Planejamento:** requisitos, entidades, regras de negócio, casos de uso e divisão de trabalho.
+- [x] **F0 — Planejamento:** requisitos, entidades conceituais, regras de negócio, casos de uso e divisão inicial de trabalho. Ver [levantamento](docs/levantamento-de-requisitos.md), [regras](docs/regras-de-negocio.md) e [modelo conceitual editável](docs/modelo-conceitual.drawio).
 - [ ] **F1 — Fundação:** estrutura frontend/backend, configuração local, variáveis de ambiente e integração inicial com Supabase.
 - [ ] **F2 — Dados e autenticação:** schema/migrations, dados fictícios e autorização por perfil no backend.
 - [ ] **F3 — Cadastros acadêmicos:** operações administrativas e relacionamentos entre as entidades.
