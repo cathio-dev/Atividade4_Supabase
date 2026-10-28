@@ -131,7 +131,7 @@ Prioridade **Obrigatório** indica requisito explícito para aprovação na ativ
 
 ## 7. Glossário conceitual de entidades
 
-Este glossário descreve conceitos do domínio, não nomes definitivos de tabelas ou colunas. A modelagem relacional e suas chaves ficam com a etapa de banco.
+Este glossário descreve conceitos do domínio, não nomes definitivos de tabelas ou colunas. A modelagem relacional e suas chaves ficam com a etapa de banco. O [modelo conceitual editável](modelo-conceitual.drawio) usa blocos retangulares, conectores ortogonais e cardinalidades explícitas. A associação turma-disciplina é N:M conceitualmente e aparece resolvida por Oferta, que também vincula professor e carga semanal.
 
 | Conceito | Significado e relações importantes |
 | --- | --- |
